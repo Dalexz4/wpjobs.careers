@@ -257,7 +257,7 @@
                         }, r.a.createElement("a", {
                             target: "_blank",
                             rel: "noopener noreferrer",
-                            href: "https://blush.design/collections/shiny-happy-people"
+                            href: "https://wpjobs.careers"
                         }, r.a.createElement("img", {
                             src: p.a,
                             alt: "home illustration"
